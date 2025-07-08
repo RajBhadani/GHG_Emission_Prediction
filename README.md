@@ -76,4 +76,4 @@ This project demonstrates a complete pipeline for predicting GHG emissions using
 
 **Raj Bhadani**  
 Intern – Artificial Intelligence & Machine Learning (AIML)  
-[LinkedIn](https://www.linkedin.com/in/rajbhadani)
+[LinkedIn](https://www.linkedin.com/in/raj-bhadani-b4b729258/)
